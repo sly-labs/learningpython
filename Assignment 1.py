@@ -1,7 +1,7 @@
 # Variables - values that can be changed
-name = "Alice"
-age = 25
-height = 5.7
+name = "Slyvester"
+age = 37
+height = 1.75
 is_student = True
 
 # Constants - values that should not be changed (conventionally uppercase)
@@ -13,7 +13,7 @@ MAX_USERS = 100
 print("Person Information:")
 print(f"Name: {name}")
 print(f"Age: {age}")
-print(f"Height: {height} feet")
+print(f"Height: {height} meters")
 print(f"Is student: {is_student}")
 
 # Using constants in calculations
