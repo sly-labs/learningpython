@@ -19,3 +19,5 @@ print("Calculated Velocity:", velocity, "m/s")  # Output the result
 # Update the mass variable to demonstrate mutability
 mass = 10.0  # Changing the value of the variable
 print("\nUpdated Mass:", mass, "kg")  # Print the updated value
+# It does not work
+
